@@ -19,6 +19,8 @@ Spotify's built-in lyrics feature relies on Musixmatch, which often falls short 
 
 ## 💡 The Solution
 
+<img width="620" height="541" alt="Screenshot 2025-08-04 at 12 08 36 AM" src="https://github.com/user-attachments/assets/4d1c1f8b-1178-4724-b658-782b5fc6f181" />
+
 This automation script bridges the gap by:
 - **Real-time monitoring** of your Spotify playback
 - **Instant Genius integration** for accurate lyrics
